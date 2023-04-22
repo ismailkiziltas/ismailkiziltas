@@ -36,6 +36,6 @@
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200.webp" width="100">
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
   <br>
 </p>
