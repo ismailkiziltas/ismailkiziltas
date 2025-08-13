@@ -2,7 +2,7 @@
 
 - 🎓 &nbsp; Bachelor of Computer Engineering from Muğla Sıtkı Koçman University.
 - 💻 &nbsp; Learning; Frontend Technologies
-- 💼 &nbsp; I live in Pamukkale/DENIZLI
+- 💼 &nbsp; I live in Tuzla / İSTANBUL
 
 <h3>🛠 Tech Stack</h3>
 
