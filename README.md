@@ -2,11 +2,11 @@
 
 - 🎓 &nbsp; Bachelor of Computer Engineering from Muğla Sıtkı Koçman University.
 - 💻 &nbsp; Learning; Frontend Technologies
-- 💼 &nbsp; I live in Tuzla / İSTANBUL
+- 💼 &nbsp; I live in Levent / İSTANBUL
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | TypeScript | NodeJS | ReactJS | NextJS | Redux | Styled Components | Unit Tests
+- 💻 &nbsp; JavaScript | TypeScript | NodeJS | ReactJS | NextJS | Redux | Context Api | Styled Components | Unit Tests | Storybook
 - 💻 &nbsp; HTML | CSS | SASS | TailwindCSS | Material UI | Bootstrap
 - 🔧 &nbsp; Git | Github | AWS | Azure
 
