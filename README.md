@@ -6,7 +6,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | TypeScript | NodeJS | ReactJS | NextJS | Redux | Context Api | Styled Components | Unit Tests | Storybook
+- 💻 &nbsp; JavaScript | TypeScript | NodeJS | ReactJS | Angular | NextJS | Redux | Context Api | Styled Components | Unit Tests | Storybook
 - 💻 &nbsp; HTML | CSS | SASS | TailwindCSS | Material UI | Bootstrap
 - 🔧 &nbsp; Git | Github | AWS | Azure
 
