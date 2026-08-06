@@ -15,9 +15,9 @@
 ### 🙋‍♂️ Hakkımda
 
 - 🎓 &nbsp; Bilgisayar Mühendisliği — Muğla Sıtkı Koçman Üniversitesi
-- 💼 &nbsp; Levent / İstanbul'da yaşıyorum
-- 💻 &nbsp; Frontend teknolojilerinde uzmanlaşıyor, backend (C# / .NET) tarafında da kendimi geliştiriyorum
-- 🌱 &nbsp; Şu an üzerinde çalıştığım: katmanlı mimari ile bir randevu yönetim sistemi (ASP.NET Core Web API + Angular)
+- 💼 &nbsp; İstanbul / Tuzla 'da yaşıyorum
+- 💻 &nbsp; Frontend teknolojilerinde uzmanım, backend (C# / .NET) tarafında da kendimi geliştiriyorum
+- 🌱 &nbsp; ASP.NET Core Web API + React, Angular
 
 ---
 
@@ -65,12 +65,6 @@
 
 ![Unit Tests](https://img.shields.io/badge/-Unit%20Tests-000)
 ![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=storybook)
-
----
-
-### 📌 Öne Çıkan Projeler
-
-- **RandevuApp** — ASP.NET Core Web API (katmanlı mimari, JWT auth, çakışma kontrollü randevu sistemi) + Angular frontend
 
 ---
 
